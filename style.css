@@ -67,7 +67,8 @@ body {
   max-width: 600px;
 }
 
-button {
+button,
+.btn-link{
   margin-top: 25px;
   padding: 12px 24px;
   border: none;
